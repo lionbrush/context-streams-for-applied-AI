@@ -3,6 +3,7 @@
 3D TOOLS
 - [Maya](https://www.autodesk.com/products/maya/)
 - [Blender](https://www.blender.org)
+- [Houdini](https://www.sidefx.com/)
 
 AI TOOLS
 - [Runway](https://runwayml.com/)
