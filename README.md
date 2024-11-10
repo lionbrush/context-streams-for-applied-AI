@@ -13,6 +13,7 @@
 - [ZBrush](https://www.maxon.net/en/zbrush)
 
 #### AI Tools
+- [Minimax](https://hailuoai.video/)
 - [Runway](https://runwayml.com/)
 - [Midjourney](https://midjourney.com/)
 
