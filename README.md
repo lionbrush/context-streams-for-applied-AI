@@ -7,10 +7,12 @@
 - [3D Computer Graphics - Wikipedia](https://en.wikipedia.org/wiki/3D_computer_graphics)
 
 ## 3D Tools
+- [3D Studio Max](https://www.autodesk.com/products/3ds-max/)
 - [Maya](https://www.autodesk.com/products/maya/)
 - [Blender](https://www.blender.org)
 - [Houdini](https://www.sidefx.com/)
 - [ZBrush](https://www.maxon.net/en/zbrush)
+- [Unreal](https://www.unrealengine.com/en-US)
 
 ## AI Tools
 - [Minimax](https://hailuoai.video/)
