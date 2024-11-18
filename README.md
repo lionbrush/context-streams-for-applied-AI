@@ -82,7 +82,7 @@
 
 ### Batch Image Tools
 - [Bulk Image Generation](https://bulkimagegeneration.com/) - Generate batches of images quickly for projects like characters or book illustrations.
-- [RenderForm](https://renderform.io/bulk-image-generation/) - Automates image rendering through spreadsheets or Zapier for large-scale needs.
+- [RenderForm](https://renderform.io/bulk-image-generation/) - Automates image rendering through spreadsheets for large-scale needs.
 - [DALL-E Bulk Image Generator](https://theresanaiforthat.com/ai/dall-e-bulk-image-generator/) - Uses OpenAI’s DALL-E for batch-generating images based on text descriptions.
 - [Getty Images API](https://developers.gettyimages.com/) - Provides a programmatic way to search and download images at scale.
 
