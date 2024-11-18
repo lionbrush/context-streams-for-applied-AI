@@ -19,6 +19,7 @@
 - [Runway](https://runwayml.com/)
 - [Midjourney](https://midjourney.com/)
 - [ChatGPT](https://chat.openai.com/)
+- [Notebook LM](https://notebooklm.google.com/)
 
 ### Resources for The Concept Development & Inspiration
 - [ArtStation](https://www.artstation.com/) - Explore digital art and concept portfolios.
@@ -79,8 +80,11 @@
 - [Suno AI](https://www.suno.ai/) - AI-powered tool for generating and customizing music, soundscapes, and sound effects in animation and film projects.
 - [Udio](https://www.udio.ai/) - A dynamic AI-driven music generation tool that offers customizable soundtracks.
 
+### Batch Image Tools
+- [Bulk Image Generation](https://bulkimagegeneration.com/) - Generate batches of images quickly for projects like characters or book illustrations.
+- [RenderForm](https://renderform.io/bulk-image-generation/) - Automates image rendering through spreadsheets or Zapier for large-scale needs.
+- [DALL-E Bulk Image Generator](https://theresanaiforthat.com/ai/dall-e-bulk-image-generator/) - Uses OpenAI’s DALL-E for batch-generating images based on text descriptions.
+- [Getty Images API](https://developers.gettyimages.com/) - Provides a programmatic way to search and download images at scale.
+
 ##### Chat Sessions
 - [Discussion on Animation Styles with ChatGPT](https://github.com/lionbrush/3d-ai/blob/main/docs/animation-styles.md)
-
-
-
