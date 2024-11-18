@@ -21,6 +21,14 @@
 - [ChatGPT](https://chat.openai.com/)
 - [Notebook LM](https://notebooklm.google.com/)
 
+## Key Tools for Building My Site
+- [ChatGPT](https://chat.openai.com/) - Used for troubleshooting code, brainstorming, and refining site content.
+- [GitHub](https://github.com/) - Hosted the HTML repository and managed updates to the site.
+- [WordPress](https://wordpress.com/) - The original platform I used for building my primary website.
+- [GitHub Pages](https://pages.github.com/) - Published my HTML site directly and linked it to my portfolio.
+- [HTML Reference](https://htmlreference.io/) - A helpful resource for refreshing my knowledge of HTML basics.
+- [Markdown Guide](https://www.markdownguide.org/) - A resource for creating and formatting content in Markdown.
+
 ### Resources for The Concept Development & Inspiration
 - [ArtStation](https://www.artstation.com/) - Explore digital art and concept portfolios.
 - [Behance](https://www.behance.net/) - Browse design projects across multiple disciplines.
