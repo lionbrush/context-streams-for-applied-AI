@@ -63,6 +63,15 @@
 - [ControlNet with Blender](https://github.com/lllyasviel/ControlNet) - Pose refinement in Blender.
 - [Move AI](https://www.move.ai) - AI driven motion capture.
 
+### Resources for Animation
+- [Animate Anything](https://anything.world/animate-anything) - AI Animation
+- [Animation Mentor Blog](https://blog.animationmentor.com/) - Insights into animation principles for improving AI-driven workflows.
+- [Animation Resources](https://animationresources.org/) - A treasure trove of historical and instructional materials for animators.
+- [The Animator’s Survival Kit](https://www.theanimatorssurvivalkit.com/) - Essential book by Richard Williams on animation principles.
+- [12 Principles of Animation - YouTube](https://www.youtube.com/watch?v=uDqjIdI4bF4) - Videos explaining Disney’s core animation principles.
+- [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) - Learn the basics of animation from Pixar professionals.
+- [Aaron Blaise Tutorials](https://creatureartteacher.com/) - Tutorials by the former Disney animator.
+
 ### Resources for Narrative & Visual Storytelling
 - [Final Draft](https://www.finaldraft.com/) - Professional screenwriting software.
 - [WriterDuet](https://www.writerduet.com/) - Collaborative screenwriting tool.
