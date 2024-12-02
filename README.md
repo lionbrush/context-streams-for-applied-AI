@@ -8,7 +8,7 @@
 
 ## 3D Tools
 - [3D Studio Max](https://www.autodesk.com/products/3ds-max/)
-- [Maya](https://www.autodesk.com/products/maya/)
+- [Maya](https://www.autodesk.com/products/maya/)a
 - [Blender](https://www.blender.org)
 - [Houdini](https://www.sidefx.com/)
 - [ZBrush](https://www.maxon.net/en/zbrush)
@@ -102,6 +102,9 @@
 - [RenderForm](https://renderform.io/bulk-image-generation/) - Automates image rendering through spreadsheets for large-scale needs.
 - [DALL-E Bulk Image Generator](https://theresanaiforthat.com/ai/dall-e-bulk-image-generator/) - Uses OpenAI’s DALL-E for batch-generating images based on text descriptions.
 - [Getty Images API](https://developers.gettyimages.com/) - Provides a programmatic way to search and download images at scale.
+
+### Logo Design Resources
+- [Explore Logo Design Resources](./logo-design-resources.md)
 
 ##### Chat Sessions
 - [Discussion on Animation Styles with ChatGPT](https://github.com/lionbrush/3d-ai/blob/main/docs/animation-styles.md)
