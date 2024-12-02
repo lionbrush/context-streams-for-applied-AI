@@ -20,6 +20,10 @@
 - [Midjourney](https://midjourney.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [Notebook LM](https://notebooklm.google.com/)
+  
+- [InsightFace](https://insightface.ai/) - A comprehensive face analysis tool for applications like recognition and detection.
+- [AI Face Swap](https://insightface.ai/) - A tool for swapping faces using advanced AI models.
+
 
 ## Key Tools for Building My Site
 - [ChatGPT](https://chat.openai.com/) - Used for troubleshooting code, brainstorming, and refining site content.
