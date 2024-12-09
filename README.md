@@ -49,6 +49,9 @@
 - [Unsplash](https://unsplash.com/) - High-quality, royalty-free image resource.
 - [Canva](https://www.canva.com/) - Templates for creating visual style guides and mood boards.
 - [Mem](https://get.mem.ai/) - AI brainstorming and note-taking.
+- [Maya ML Deformer Documentation: Autodesk Documentation](https://help.autodesk.com/cloudhelp/2024/ENU/Maya-MLDeformer/)
+- [Machine Learning for Animation: AI for Character Animation](https://www.example.com)
+- [Visual References (Pinterest Board): 3D Animation Styles](https://www.pinterest.com/yourboard)
 
 ## Procedural & Template-Based Design Resources
 - [Quixel Megascans](https://quixel.com/megascans/) - A library of high-quality 3D scans for textures and base models.
