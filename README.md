@@ -22,6 +22,8 @@
 - [Notebook LM](https://notebooklm.google.com/)
 - [InsightFace](https://insightface.ai/) - A comprehensive face analysis tool for applications like recognition and detection.
 - [AI Face Swap](https://insightface.ai/) - A tool for swapping faces using advanced AI models.
+- [Maya ML Deformer Documentation: Autodesk Documentation](https://help.autodesk.com/cloudhelp/2024/ENU/Maya-MLDeformer/)
+- [Machine Learning for Animation: AI for Character Animation](https://www.example.com)
 
 ## Key Tools for Building My Site
 - [ChatGPT](https://chat.openai.com/) - Used for troubleshooting code, brainstorming, and refining site content.
@@ -49,8 +51,6 @@
 - [Unsplash](https://unsplash.com/) - High-quality, royalty-free image resource.
 - [Canva](https://www.canva.com/) - Templates for creating visual style guides and mood boards.
 - [Mem](https://get.mem.ai/) - AI brainstorming and note-taking.
-- [Maya ML Deformer Documentation: Autodesk Documentation](https://help.autodesk.com/cloudhelp/2024/ENU/Maya-MLDeformer/)
-- [Machine Learning for Animation: AI for Character Animation](https://www.example.com)
 - [Visual References (Pinterest Board): 3D Animation Styles](https://www.pinterest.com/yourboard)
 
 ## Procedural & Template-Based Design Resources
